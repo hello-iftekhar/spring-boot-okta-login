@@ -1,0 +1,9 @@
+okta:
+  oauth2:
+    issuer: https://dev-75660636.okta.com/oauth2/default
+    client-id: 0oaepbp0c1Fg9DDMh5d7
+    client-secret: i7M9zIcn6JXrn_KB21oOyBIaRpxwRD29P1NXsazj9Q3nFUlK9vg1x-qwtlsjzgZe
+    scopes:
+      - email
+      - profile
+      - openid
